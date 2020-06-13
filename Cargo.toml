@@ -1,5 +1,7 @@
 [workspace]
 
 members = [
+	"use_env_logger",
 	"use_rand",
+	"use_structopt"
 ]
