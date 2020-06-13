@@ -394,6 +394,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "use_lazy_static"
+version = "0.1.0"
+dependencies = [
+ "lazy_static",
+]
+
+[[package]]
 name = "use_rand"
 version = "0.1.0"
 dependencies = [
