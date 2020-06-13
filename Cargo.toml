@@ -1,6 +1,7 @@
 [workspace]
 
 members = [
+	"json_static",
 	"use_env_logger",
 	"use_lazy_static",
 	"use_rand",
