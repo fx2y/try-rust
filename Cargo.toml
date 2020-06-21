@@ -5,5 +5,6 @@ members = [
 	"use_env_logger",
 	"use_lazy_static",
 	"use_rand",
-	"use_structopt"
+	"use_structopt",
+	"strsplit"
 ]
