@@ -7,5 +7,6 @@ members = [
 	"use_lazy_static",
 	"use_rand",
 	"use_structopt",
-	"strsplit"
+	"strsplit",
+	"toml_static"
 ]
