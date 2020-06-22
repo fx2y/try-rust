@@ -1,12 +1,13 @@
 [workspace]
 
 members = [
-	"json_static",
 	"json_dynamic",
+	"json_static",
 	"use_env_logger",
 	"use_lazy_static",
 	"use_rand",
 	"use_structopt",
 	"strsplit",
-	"toml_static"
+	"toml_dynamic",
+	"toml_static",
 ]
