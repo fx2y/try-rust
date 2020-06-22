@@ -2,6 +2,7 @@
 
 members = [
 	"json_static",
+	"json_dynamic",
 	"use_env_logger",
 	"use_lazy_static",
 	"use_rand",
