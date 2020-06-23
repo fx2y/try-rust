@@ -10,4 +10,5 @@ members = [
 	"strsplit",
 	"toml_dynamic",
 	"toml_static",
+	"transformer",
 ]
