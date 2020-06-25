@@ -1107,6 +1107,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "redis_example"
+version = "0.1.0"
+dependencies = [
+ "redis",
+]
+
+[[package]]
 name = "redox_syscall"
 version = "0.1.56"
 source = "registry+https://github.com/rust-lang/crates.io-index"
