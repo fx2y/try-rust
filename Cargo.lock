@@ -1299,6 +1299,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "sqlite_example"
+version = "0.1.0"
+dependencies = [
+ "rusqlite",
+]
+
+[[package]]
 name = "standback"
 version = "0.2.9"
 source = "registry+https://github.com/rust-lang/crates.io-index"

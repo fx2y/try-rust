@@ -5,6 +5,7 @@ members = [
 	"json_static",
 	"postgresql_example",
 	"redis_example",
+	"sqlite_example",
 	"use_env_logger",
 	"use_lazy_static",
 	"use_rand",
