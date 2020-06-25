@@ -3,6 +3,7 @@
 members = [
 	"json_dynamic",
 	"json_static",
+	"postgresql_example",
 	"use_env_logger",
 	"use_lazy_static",
 	"use_rand",
