@@ -1,6 +1,7 @@
 [workspace]
 
 members = [
+	"file_transfer",
 	"json_dynamic",
 	"json_static",
 	"postgresql_example",
